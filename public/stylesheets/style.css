@@ -19,15 +19,94 @@ div.layout {
   margin-top: 70px;
 }
 
-.layout h3, h5 {
+#campus h3 {
   color: #f8f8f9;
   margin-top: 30px;
   margin-bottom: 20px;
+}
 
-
+#description {
+  color: #f8f8f9;
 }
 
 #campus {
   height: 500;
   background-image: url(../images/background-1.jpg)
+}
+
+#online h3, h5 {
+  color: #777777;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#text_online {
+  color: #777777;
+}
+
+#button_online {
+  margin: auto;
+  background-color: #ed1a7b;
+}
+
+#laptop {
+  margin-bottom: 30px;
+}
+
+#hire {
+  background-image: url(../images/background-2.jpg)
+}
+
+#text_hire {
+  color: #f8f8f9;
+}
+
+#hire_description {
+  margin-bottom: 30px;
+  color: #f8f8f9;
+}
+
+#button_hire {
+  background-color: #84ce15;
+}
+
+#partners {
+  background-color: #1c2224;
+}
+
+#text_partners {
+  color: #37becc;
+}
+
+#partners_description {
+  color: #f8f8f9;
+}
+
+.partners {
+  margin-top: 50px;
+  background-color: #333333;
+}
+
+.partners h6 {
+  color: #777777;
+}
+
+#contact {
+  background-color: #E5F3F4;
+}
+
+#text_contact {
+  margin-top: 20px;
+  text-align: center;
+  color: #37becc;
+}
+
+#contact_description {
+  text-align: center;
+  color: #777777;
+}
+
+#button_contact {
+  margin-left: 14px;
+  background-color: #84ce15;
 }
