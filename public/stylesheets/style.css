@@ -1,3 +1,4 @@
+
 .top-bar, .top-bar li {
   background-color: #37becc
 }
@@ -7,12 +8,16 @@
 }
 
 #button_apply {
-  background-color: #ed1a7b
+  background-color: #ed1a7b;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #button_campus {
   margin: auto;
-  background-color: #84ce15
+  background-color: #84ce15;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 div.layout {
@@ -23,10 +28,14 @@ div.layout {
   color: #f8f8f9;
   margin-top: 30px;
   margin-bottom: 20px;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #description {
   color: #f8f8f9;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #campus {
@@ -38,15 +47,21 @@ div.layout {
   color: #777777;
   margin-top: 30px;
   margin-bottom: 20px;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #text_online {
   color: #777777;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #button_online {
   margin: auto;
   background-color: #ed1a7b;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #laptop {
@@ -59,15 +74,21 @@ div.layout {
 
 #text_hire {
   color: #f8f8f9;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #hire_description {
   margin-bottom: 30px;
   color: #f8f8f9;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #button_hire {
   background-color: #84ce15;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #partners {
@@ -76,10 +97,14 @@ div.layout {
 
 #text_partners {
   color: #37becc;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #partners_description {
   color: #f8f8f9;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 .partners {
@@ -89,6 +114,8 @@ div.layout {
 
 .partners h6 {
   color: #777777;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #contact {
@@ -99,14 +126,20 @@ div.layout {
   margin-top: 20px;
   text-align: center;
   color: #37becc;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #contact_description {
   text-align: center;
   color: #777777;
+  font-family: 'Roboto Slab', serif;
+
 }
 
 #button_contact {
   margin-left: 14px;
   background-color: #84ce15;
+  font-family: 'Roboto Slab', serif;
+
 }
