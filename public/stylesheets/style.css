@@ -1,0 +1,33 @@
+.top-bar, .top-bar li {
+  background-color: #37becc
+}
+
+.menu-text, .menu li a {
+  color: #f8f8f9
+}
+
+#button_apply {
+  background-color: #ed1a7b
+}
+
+#button_campus {
+  margin: auto;
+  background-color: #84ce15
+}
+
+div.layout {
+  margin-top: 70px;
+}
+
+.layout h3, h5 {
+  color: #f8f8f9;
+  margin-top: 30px;
+  margin-bottom: 20px;
+
+
+}
+
+#campus {
+  height: 500;
+  background-image: url(../images/background-1.jpg)
+}
